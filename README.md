@@ -6,4 +6,5 @@ Nesse programa, defini uma função primo(num) capaz de explicitar se o número 
 
 O desenvolvimento desse programa foi fundamental para que eu pudesse consolidar esses diversos conceitos acerca da linguagem.
 
-Link do vídeo no qual comento sobre o código e a aplicabilidade do código: https://www.youtube.com/watch?v=ajt9bePNgII
+Link do vídeo no qual comento sobre o código e a aplicabilidade do software: https://www.youtube.com/watch?v=ajt9bePNgII
+
